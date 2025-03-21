@@ -1,44 +1,67 @@
-# Hey there! 👋 I'm Abhi2k4
+<h1 align="center">Hi, I'm Abhishek! 🚀</h1>
+<h3 align="center">Aspiring Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
 
-Welcome to my little corner of GitHub! I'm a passionate coder, problem-solver, and tech enthusiast who loves building things that make a difference. Stick around to explore my projects and see what I'm up to!
+<p align="center">
+  <a href="https://github.com/abhi2k4">
+    <img src="https://komarev.com/ghpvc/?username=abhi2k4&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+  </a>
+  <a href="https://github.com/abhi2k4?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhi2k4?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
-- **Username:** abhi2k4  
-- **Pronouns:** He/Him (or update as per your preference)  
-- **Mission:** Turning caffeine into code, one line at a time.  
-- **Currently Exploring:** [Add what you're learning, e.g., Web Dev, AI, Blockchain]  
-- **Fun Fact:** I probably spend more time debugging than sleeping!  
+### 🌟 About Me
+- 🔭 Currently working on **UBIShield** (Financial Fraud Detection System)
+- 🌱 Learning **Full-Stack Development** and **Machine Learning**
+- 👯 Looking to collaborate on **Open Source & AI Projects**
+- 💡 Exploring **Generative AI & Web3**
+- ⚡ Fun fact: **I love building cool tech & automating stuff!**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack  
+#### 🚀 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-*(Add more badges for languages/tools you use - check [shields.io](https://shields.io/) for more options!)*
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+#### 💾 Databases & Cloud  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+#### 🛠️ Tools & DevOps  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 🌟 What I’m Working On
-- 🔭 Building cool projects that solve real-world problems.  
-- 🌱 Learning [insert tech/topic you're diving into].  
-- 💡 Open to collabs—drop me a message if you’ve got an idea!
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi2k4&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi2k4&theme=radical" alt="GitHub Streak">
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Abhi2k4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi2k4&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&layout=compact&theme=radical)
-
----
-
-## 📫 Let’s Connect!
-- [Twitter/X](https://twitter.com/yourusername) *(Update with your handle)*  
-- [LinkedIn](https://linkedin.com/in/yourusername) *(Update with your profile)*  
-- [Email](mailto:your.email@example.com) *(Add your email)*  
-
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
-Thanks for stopping by! Let’s build something awesome together. ✨
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
