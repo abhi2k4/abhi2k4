@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=00FF99&center=true&vCenter=true&width=450&lines=Hello,+I'm+Abhi2k4!;Welcome+to+My+GitHub+Universe!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF79C6¢er=true&vCenter=true&width=450&lines=Hello,+I'm+Abhi2k4!;Welcome+to+My+GitHub+Universe!" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -41,11 +41,11 @@ Hey, I’m **abhi2k4**—a passionate developer who thrives on turning ideas int
 
 ## 📈 My GitHub Galaxy
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi2k4&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" width="420">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi2k4&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="420">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi2k4&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="420">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi2k4&theme=dracula&hide_border=true" alt="GitHub Streak" width="420">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="350">
 </p>
 
 ---
@@ -71,7 +71,7 @@ Hey, I’m **abhi2k4**—a passionate developer who thrives on turning ideas int
 
 ## 🎨 Fun Corner
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi2k4&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi2k4&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abhi2k4.abhi2k4" alt="Visitor Badge">
