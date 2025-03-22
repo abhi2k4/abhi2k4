@@ -41,7 +41,7 @@ Here’s the arsenal I wield to tame coding chaos:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhi2k4&theme=dark&border_radius=10&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abhi2k4&theme=dark&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
