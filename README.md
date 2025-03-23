@@ -34,10 +34,6 @@ Here’s the arsenal I wield to tame coding chaos:
 
 ---
 
-## 🌟 In the Code Forge  
-- **[Project Name]**: [Something epic—like "a 2D Java game forged with SWING & AWT for retro glory"]. Explore it [here](link-to-repo).  
-- **[Another Project]**: [A standout—like "a real-time video chat powered by WebRTC" or "a DSA visualizer to demystify algorithms"]. Dive in [here](link-to-repo).  
-- *More creations simmering—watch this space for epic reveals!*  
 ## 📊 GitHub Stats
 
 <div align="center">
