@@ -44,9 +44,9 @@ Here’s the arsenal I wield to tame coding chaos:
   <img src="https://github-readme-stats.vercel.app/api?username=abhi2k4&show_icons=true&theme=dark" alt="Abhi2k4's GitHub Stats" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
