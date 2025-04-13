@@ -36,7 +36,7 @@ Here’s the arsenal I wield to tame coding chaos:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="width:100% ; background:transparent">
   <img src="https://streak-stats.demolab.com?user=abhi2k4&theme=dark&border_radius=10" alt="GitHub Streak" />
 </div>
 <!--
@@ -44,7 +44,7 @@ Here’s the arsenal I wield to tame coding chaos:
   <img src="https://github-readme-stats.vercel.app/api?username=abhi2k4&show_icons=true&theme=dark" alt="Abhi2k4's GitHub Stats" />
 </div>-->
 
-<div align="center">
+<div align="center" style="width:100%  ; background:transparent">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
