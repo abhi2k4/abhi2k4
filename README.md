@@ -36,17 +36,22 @@ Here’s the arsenal I wield to tame coding chaos:
 
 ## 📊 GitHub Stats
 
-<div align="center" style="width:100% ; background:transparent">
-  <img src="https://streak-stats.demolab.com?user=abhi2k4&theme=dark&border_radius=10" alt="GitHub Streak" />
-</div>
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi2k4&show_icons=true&theme=dark" alt="Abhi2k4's GitHub Stats" />
-</div>-->
+<!-- GitHub Streak -->
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=abhi2k4&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
 
-<div align="center" style="width:100%  ; background:transparent">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+<!-- GitHub Stats (optional, currently commented out) -->
+<!--
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abhi2k4&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+</p>
+-->
+
+<!-- Top Languages -->
+<!--<p align="center">-->
+<!--  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />-->
+<!--</p>-->
 
 ---
 
