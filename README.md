@@ -19,17 +19,16 @@ Step into my GitHub galaxy—a realm where code weaves wonders, ideas ignite bre
 - **Mission**: Building smarter solutions, one elegant commit at a time.  
 - **Powered By**: Endless coffee, relentless curiosity, and a knack for clean, efficient code.  
 - **Current Quest**: working for a private project as a intern at eterniq.in.  
-- **DSA Odyssey**: Battling through LeetCode, HackerRank, and CodingNinja—mastering trees, graphs, and the dark arts of dynamic programming.  
-- **Quirky Tidbit**: I once fixed a bug in my dreams—woke up, coded it, and it worked. Dream-driven development, anyone?  
+- **DSA Odyssey**: Battling through LeetCode, HackerRank, and CodingNinja—mastering trees, graphs, and the dark arts of dynamic programming.
 
 ---
 
 ## 🛠️ My Tech Toolkit  
 Here’s the arsenal I wield to tame coding chaos:  
 - **Languages**: Python, Java, JavaScript—my trusty trio.  
-- **Frameworks & Tools**: React, Node.js, Git—[add more you love, like VS Code or Docker].  
+- **Frameworks & Tools**: React, Node.js, Git ,VS Code. 
 - **DSA Superpowers**: Arrays, Stacks, Queues, Trees, Graphs—unlocking efficiency one structure at a time.  
-- **Passions**: Web Development, UI/UX Design—where function meets finesse.  
+- **Passions**: Web Development, UI/UX Design—where function meets finesse and a fitness freak.
 - **Command Center**: Windows—my digital cockpit.  
 
 ---
