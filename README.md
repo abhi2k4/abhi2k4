@@ -56,9 +56,8 @@ Here’s the arsenal I wield to tame coding chaos:
 
 ## 🌌 Beyond the Code  
 When I’m not typing away, you can find me:  
-- Exploring the mysteries of the universe (or at least Stack Overflow).  
-- Gaming like it’s 1999—retro vibes all the way!  
-- Dreaming up the next big thing in tech—watch this space.  
+- Exploring the mysteries of the universe (or at least Stack Overflow).
+- Grinding hard in the Jimmm 💪. 
 
 ---
 
