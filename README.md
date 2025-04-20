@@ -63,13 +63,12 @@ Here’s the arsenal I wield to tame coding chaos:
 ---
 
 ## 📡 Let’s Connect!  
-<div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/thormotheabhishek" style="color: #0077b5; text-decoration: none; font-weight: bold;">LinkedIn</a>
-  <a href="https://x.com/amt_official04" style="color: #1da1f2; text-decoration: none; font-weight: bold;">Twitter/X</a>
-  <a href="https://www.instagram.com/thormothe.abhishek" style="color: #e1306c; text-decoration: none; font-weight: bold;">Instagram</a>
-</div>
+Got a wild idea, a collab in mind, or just want to geek out? Hit me up:
+- **LinkedIn**: [thormotheabhishek](https://www.linkedin.com/in/thormotheabhishek)
+- **Twitter/X**: [amt_official04](https://x.com/amt_official04)
+- **Instagram**: [thormothe.abhishek](https://www.instagram.com/thormothe.abhishek/)
 
-<div align="center" style="font-style: italic; color: #666; margin-top: 10px;">
-  *“Code is like poetry—sometimes it rhymes, sometimes it crashes, but it’s always an adventure.”*  
-  Let’s build something extraordinary together! 🚀  
-</div>
+---
+
+*“Code is like poetry—sometimes it rhymes, sometimes it crashes, but it’s always an adventure.”*  
+Let’s build something extraordinary together! 🚀
