@@ -40,7 +40,6 @@ Here’s the arsenal I wield to tame coding chaos:
   <img 
     src="https://streak-stats.demolab.com?user=abhi2k4&hide_border=true&background=00000000&stroke=64748B&ring=3B82F6&fire=F59E0B&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" 
     alt="GitHub Streak" 
-    style="max-width: 100%; border-radius: 10px;"
   />
 </p>
 
