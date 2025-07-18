@@ -54,7 +54,7 @@ Here’s the arsenal I wield to tame coding chaos:
 -->
 
 <p align="center">
- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+ <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
