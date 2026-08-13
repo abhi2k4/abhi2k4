@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+  <a href="https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd">
+    <img src="https://img.shields.io/badge/Currently%20listening-♪%20Love%20Me%20Again%20%E2%80%94%20John%20Newman-191414?style=for-the-badge&logo=spotify&logoColor=1DB954" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+%7C+Backend+%7C+Data+%7C+AI;Building+software+from+idea+to+production" alt="Introduction" />
 </p>
 
