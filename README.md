@@ -1,79 +1,113 @@
-
-<h1 align="center">Hi, I'm Abhishek! 🚀</h1>
-<h3 align="center">Aspiring Full-Stack Developer | AI Enthusiast | UI/UX Designer</h3>
+<h1 align="center">Abhishek Thormothe</h1>
 
 <p align="center">
-  <a href="https://github.com/abhi2k4">
-    <img src="https://komarev.com/ghpvc/?username=abhi2k4&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+  <a href="https://abhishekthormothe.in">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/abhi2k4?tab=followers">
-    <img src="https://img.shields.io/github/followers/abhi2k4?label=Followers&style=social" alt="GitHub Followers">
+  <a href="https://www.linkedin.com/in/thormotheabhishek">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-Step into my GitHub galaxy—a realm where code weaves wonders, ideas ignite breakthroughs, and technology fuels adventure. I’m a driven developer obsessed with cracking puzzles, crafting innovative projects, and diving deep into the art of algorithms and beyond.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+%7C+Backend+%7C+Data+%7C+AI;Building+software+from+idea+to+production" alt="Introduction" />
+</p>
 
 ---
 
-## 🚀 Who I Am  
-- **Mission**: Building smarter solutions, one elegant commit at a time.  
-- **Powered By**: Endless coffee, relentless curiosity, and a knack for clean, efficient code.  
-- **Current Quest**: working for a private project as a intern at eterniq.in.  
-- **DSA Odyssey**: Battling through LeetCode, HackerRank, and CodingNinja—mastering trees, graphs, and the dark arts of dynamic programming.
+## 👨‍💻 About
+
+Computer Engineering graduate building software across the stack. I focus on backend systems, data infrastructure, AI applications, and products that solve real problems.
+
+I work where **product engineering meets systems engineering**—taking ideas from early prototypes through APIs, databases, interfaces, integrations, infrastructure, and deployment. Particularly drawn to problems involving data, automation, AI, and systems that need to work reliably beyond a local development environment.
+
+Currently looking for opportunities to work with strong engineers, own meaningful problems, and grow by shipping real software.
 
 ---
 
-## 🛠️ My Tech Toolkit  
-Here’s the arsenal I wield to tame coding chaos:  
-- **Languages**: Python, Java, JavaScript—my trusty trio.  
-- **Frameworks & Tools**: React, Node.js, Git ,VS Code. 
-- **DSA Superpowers**: Arrays, Stacks, Queues, Trees, Graphs—unlocking efficiency one structure at a time.  
-- **Passions**: Web Development, UI/UX Design—where function meets finesse and a fitness freak.
-- **Command Center**: Windows—my digital cockpit.  
+## 🛠️ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,django,fastapi,tailwind,mongodb,mysql,docker,kafka,git,github,linux&perline=8&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Streak -->
 <p align="center">
-  <img 
-    width= "100%"
-    src="https://streak-stats.demolab.com?user=abhi2k4&hide_border=true&background=00000000&stroke=64748B&ring=3B82F6&fire=F59E0B&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" 
-    alt="GitHub Streak" 
-    class=" user-select=none "
-  />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=abhi2k4&show_icons=true&hide_border=true&bg_color=00000000&title_color=64748&text_color=71717A&icon_color=2563EB&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=abhi2k4&layout=compact&hide_border=true&bg_color=00000000&title_color=64748&text_color=71717A&langs_count=6" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhi2k4&theme=transparent&hide_border=true&border_radius=8&card_width=700" alt="GitHub Streak" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/abhi2k4">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi2k4&bg_color=00000000&color=64748B&line=3B82F6&point=3B82F6&area=true&hide_border=true&radius=8" alt="GitHub Activity Graph" />
+  </a>
 </p>
 
 
-<!-- GitHub Stats (optional, currently commented out) -->
-<!--
+---
+
+## 🎯 Engineering Interests
+
+```text
+PRODUCT
+  └── Interfaces · APIs · User Experience
+
+SYSTEMS
+  └── Backend · Architecture · Distributed Systems
+
+DATA
+  └── Pipelines · Metadata · Governance · Analytics
+
+AI
+  └── Agents · LLM Applications · Observability
+
+INFRASTRUCTURE
+  └── Containers · Messaging · Deployment · Reliability
+```
+
+---
+
+## 🔄 How I Work
+
+**Understand → Build → Break → Measure → Improve**
+
+I prefer learning through implementation rather than staying on the sidelines.
+
+That means building the first version, running into the ugly problems, understanding what actually failed, and improving the system from there.
+
+I care about:
+
+- Ownership over just completing tasks
+- Simple solutions before unnecessary complexity
+- Understanding systems instead of blindly using abstractions
+- Shipping early and iterating
+- Writing software that can survive beyond the demo
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abhi2k4&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <a href="https://abhishekthormothe.in">
+    <strong>abhishekthormothe.in</strong>
+  </a>
+  <br>
+  <sub>Building things worth building.</sub>
 </p>
--->
-
-<p align="center">
- <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi2k4&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🌌 Beyond the Code  
-<div style="display: flex; gap: 20px; justify-content: center; color: #7b68ee; margin-bottom: 20px;">
-  - Exploring the mysteries of the universe (or at least Stack Overflow).  
-  - Grinding hard in the gym 💪.  
-</div>
-
----
-
-## 📡 Let’s Connect!  
-Got a wild idea, a collab in mind, or just want to geek out? Hit me up:
-- **LinkedIn**: [thormotheabhishek](https://www.linkedin.com/in/thormotheabhishek)
-- **Twitter/X**: [amt_official04](https://x.com/amt_official04)
-- **Instagram**: [thormothe.abhishek](https://www.instagram.com/thormothe.abhishek/)
-
----
-
-*“Code is like poetry—sometimes it rhymes, sometimes it crashes, but it’s always an adventure.”*  
-Let’s build something extraordinary together! 🚀
